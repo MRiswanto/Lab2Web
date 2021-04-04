@@ -1,0 +1,34 @@
+1.	Langkah pertama
+Kita bikin dokumen HTML seperti di bawah ini :
+Kemudian buka browser, lalu refresh :
+2.	Langkah kedua 
+Tambahkan CSS Internal seperti di bawah ini di bagian head dokumen, seperti di bawah ini :
+
+
+	Setelah itu buka browser kemudia di refresh :
+	Akan menampilkan tampilan seperti di bawah ini
+
+
+3.	Langkah ketiga
+Tambhakan Inline CSS pada <p> berikut ini :
+
+	Lalu buka browser kemudian di refresh, akan muncul seperti ini :
+
+
+4.	Langkah ke Empat
+Buat file baru dengan nama file style_eksternal.css dan buatlah CSS seperti di bawah ini :
+
+kemudian tambah tag <link> untuk meneruskan file css yang sudah di buat pada bagian <head>  seperti gambar di bawah ini:
+
+
+Lalu buka browser kemudia di refresh nanti akan muncul gambar seperti di bawah ini :
+
+ 
+5.	Langkah ke lima
+Tambahkan CSS selector dengan menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode seperti di bawah ini : 
+
+Kemudian buka browser dan refresh nanti akan muncul gambar seperti di bawah ini :
+
+ 
+6.	Terakhir.
+Simpan hasil kodingannya, setelah itu Cek Browser dan lihat tampilannya.
